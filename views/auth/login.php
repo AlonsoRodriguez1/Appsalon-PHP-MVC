@@ -3,6 +3,8 @@
 
 <?php 
     include_once __DIR__ . "/../templates/alertas.php";
+
+    echo "Inutil";
 ?>
 
 <form class="formulario" method="POST" action="/">
